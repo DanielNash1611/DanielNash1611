@@ -19,7 +19,7 @@ Most of my professional work lives in private enterprise systems, so this profil
 | [Immunology Scout Demo](https://github.com/DanielNash1611/immunologyscout-demo) | Portfolio-safe demo of an immunology research assistant focused on search, synthesis, and scientific workflows |
 | [IEP Compass](https://github.com/DanielNash1611/iep-compass) | AI-assisted workflow for understanding complex education documents and turning them into clearer action |
 | [Portfolio](https://github.com/DanielNash1611/portfolio) | Product leadership portfolio, AI positioning, and resume generation experiments |
-| [Jumping on Coals Game](https://github.com/DanielNash1611/jumpingoncoalsgame) | Creative/music-adjacent product experimentation tied to an album release |
+| OMS ChatGPT App *(private)* | Prototype-to-production AI workflow for order-management support, focused on structured outputs, operational decision support, and safe enterprise adoption |
 
 ## How I approach AI product work
 
