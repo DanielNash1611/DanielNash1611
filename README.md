@@ -19,7 +19,7 @@ Most of my professional work lives in private enterprise systems, so this profil
 | [Immunology Scout Demo](https://github.com/DanielNash1611/immunologyscout-demo) | Portfolio-safe demo of an immunology research assistant focused on search, synthesis, and scientific workflows |
 | [IEP Compass](https://github.com/DanielNash1611/iep-compass) | AI-assisted workflow for understanding complex education documents and turning them into clearer action |
 | [Portfolio](https://github.com/DanielNash1611/portfolio) | Product leadership portfolio, AI positioning, and resume generation experiments |
-| OMS ChatGPT App *(private)* | Prototype-to-production AI workflow for order-management support, focused on structured outputs, operational decision support, and safe enterprise adoption |
+| [OMS ChatGPT App](https://github.com/DanielNash1611/omschatgptapp) | Initial prototype exploring AI-assisted order-management support, structured outputs, and operational decision support |
 
 ## How I approach AI product work
 
@@ -28,6 +28,12 @@ Most of my professional work lives in private enterprise systems, so this profil
 3. **Design for trust.** Good AI products need clear boundaries, transparent outputs, and ways to evaluate quality.
 4. **Connect prototype → business case → rollout.** The work is not done when the demo works; it is done when people adopt it and the organization can justify scaling it.
 5. **Make complexity understandable.** A lot of product leadership is helping teams see the same problem clearly enough to move.
+
+## How these projects are built
+
+I use AI coding tools like **Codex** and **Claude Code** as build accelerators: scaffolding ideas, iterating on implementations, refactoring, testing, and exploring architecture options.
+
+My role is product direction, problem framing, workflow design, evaluation criteria, UX judgment, and deciding what is worth building in the first place. I care less about pretending every line was hand-written and more about showing how modern AI tools can help a product leader turn ideas into working software.
 
 ## Current areas of interest
 
