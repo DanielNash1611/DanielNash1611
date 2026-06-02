@@ -1,6 +1,6 @@
 # Hi, I’m Daniel Nash 👋
 
-I’m an **AI product leader, builder, and composer** focused on turning ambiguous AI opportunities into working products, trusted workflows, and measurable outcomes.
+I’m an **AI product leader and builder with a creative background in composition** focused on turning ambiguous AI opportunities into working products, trusted workflows, and measurable outcomes.
 
 Most of my professional work lives in private enterprise systems, so this profile is the public proof layer: practical prototypes, portfolio-safe demos, and experiments that show how I think about AI products from problem discovery through adoption.
 
@@ -9,7 +9,7 @@ Most of my professional work lives in private enterprise systems, so this profil
 - **Agentic workflows** that help people reason, research, create, and make better decisions
 - **Research assistants** for scientific and knowledge-heavy domains
 - **Product strategy tools** that turn messy inputs into clear decisions and next steps
-- **Music tech and creative AI experiments** shaped by my background as a composer
+- **Music tech and creative AI experiments** shaped by my background in composition
 - **Portfolio-safe demos** that communicate product judgment, not just code output
 
 ## Featured work
@@ -39,7 +39,7 @@ Most of my professional work lives in private enterprise systems, so this profil
 
 ## A little more about me
 
-I’m a product manager by profession and a composer by identity. That mix shapes how I build: I care about systems, craft, emotional resonance, and whether the final experience actually helps someone do something meaningful.
+I’m a product manager who also composes music because I love creating. That creative practice shapes how I build: I care about systems, craft, emotional resonance, and whether the final experience actually helps someone do something meaningful.
 
 - Portfolio: [danielnash.co](https://www.danielnash.co)
 - Music: [musicofdanielnash.com](https://www.musicofdanielnash.com)
